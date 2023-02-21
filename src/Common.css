@@ -1,0 +1,8 @@
+.top-bar {
+    background-color: brown;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    gap: 2rem;
+    padding: 0 5%;
+}
