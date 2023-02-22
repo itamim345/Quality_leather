@@ -2,7 +2,11 @@
     background-color: brown;
     color: white;
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     gap: 2rem;
     padding: 0 5%;
+}
+/*Carousel */
+.c-item {
+    height: 50vh!important;
 }
