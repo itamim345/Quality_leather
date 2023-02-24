@@ -6,6 +6,7 @@ export default function FeaturedProducts() {
   return (
     <section id="featured_products" className="py-5">
       <Container>
+        <h2 className='text-center pb-3'>Featured Products</h2>
         <div className="fp-top">
           <div className="fp-top-left">
             <div className="bg-overlay p-5">
