@@ -11,16 +11,16 @@ export default function FeaturedProducts() {
           <div className="fp-top-left">
             <div className="bg-overlay p-5">
               <div className="d-flex align-items-center flex-column border p-5">
-                <h2 className="text-white">Card Holder</h2>
-                <button>Know More</button>
+                <h3 className="text-white">Card Holder</h3>
+                <button type="button" class="btn btn-danger btn-sm">Know More</button>
               </div>
             </div>
           </div>
           <div className="fp-top-right">
             <div className="bg-overlay p-5">
               <div className="d-flex align-items-center flex-column border border p-5">
-                <h2 className='text-white'>Card Holder</h2>
-                <button>Know More</button>
+                <h3 className="text-white">Card Holder</h3>
+                <button type="button" class="btn btn-danger btn-sm">Know More</button>
               </div>
             </div>
           </div>
@@ -28,8 +28,8 @@ export default function FeaturedProducts() {
         <div className="fp-bottom mt-4">
           <div className="bg-overlay p-5">
             <div className="border border p-5">
-              <h2 className="text-white">Card Holder</h2>
-              <button>Know More</button>
+              <h3 className="text-white">Card Holder</h3>
+                <button type="button" class="btn btn-danger btn-sm">Know More</button>
             </div>
           </div>
         </div>

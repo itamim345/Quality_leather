@@ -12,24 +12,24 @@
 }
 
 /************** Featured Products CSS *************/
-#featured_products .fp-top {
+.fp-top {
     display: flex;
     gap: 2%;
 }
-#featured_products .fp-top .fp-top-left {
+.fp-top .fp-top-left {
     width: 49%;
     background-image: url("./images/background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
-#featured_products .fp-top .fp-top-right {
+.fp-top .fp-top-right {
     width: 49%;
     background-image: url("./images/background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
-#featured_products .fp-bottom {
+.fp-bottom {
     background-image: url("./images/background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
